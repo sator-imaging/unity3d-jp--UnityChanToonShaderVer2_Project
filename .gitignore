@@ -26,6 +26,7 @@ ExportedObj/
 *.booproj
 *.svd
 *.pdb
+.idea/**
 
 # Unity3D generated meta files
 *.pidb.meta
@@ -36,6 +37,3 @@ sysinfo.txt
 
 # Builds
 *.apk
-
-# Unity 2019.4.x or later
-Packages/packages-lock.json
